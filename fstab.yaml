@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://adobe-my.sharepoint.com/personal/tkennedy_adobe_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftkennedy%5Fadobe%5Fcom%2FDocuments%2Fwknd&view=0"
+    url: https://adobe-my.sharepoint.com/:w:/r/personal/tkennedy_adobe_com/_layouts/15/Doc.aspx?sourcedoc=%7B5D16575F-DA20-4AE0-BF5E-3DA6375E95D8%7D&file=index.docx&action=default&mobileredirect=true
     type: "markup"
     suffix: ".html"
